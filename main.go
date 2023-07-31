@@ -19,5 +19,5 @@ func main() {
 	//routes
 	routes.ArticleRoutes(app)
 
-	app.Listen(":6000")
+	app.Listen(":8000")
 }
